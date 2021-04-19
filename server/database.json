@@ -1,0 +1,93 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Fritadeira Elétrica",
+      "descricao": "Multilser Air Fryer 4",
+      "imagem": "https://github.com/Shavolavo/img/blob/9d99581834cc4aef2b24d7de017dd2668e1ac901/airfrye2r.png",
+      "preco": 399.00,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Fritadeira Elétrica Air",
+      "descricao": "Fryer 4L 1500W com espatula de brinde",
+      "imagem": "https://github.com/Shavolavo/img/blob/master/airfrye2r.png",
+      "preco": 359.00,
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Fritadeira Elétrica",
+      "descricao": "Consul Air Fryer",
+      "imagem": "https://github.com/Shavolavo/img/blob/master/airfrye2r.png",
+      "preco": 400.00,
+      "categoria_id": 1
+    }
+  ],
+  "users": [
+    {
+        "id": 1,
+        "nome": "Tiago Miranda Silva",
+        "email": "tiagomiranda@precode.com",
+        "usuario": "Tiago",
+        "senha": 12345
+    },
+    {
+        "id": 2,
+        "nome": "Marina  Del  Mouro",
+        "email": "marinamouro@precode.com",
+        "usuario": "Marina",
+        "senha": 12345
+    },
+    {
+        "id": 3,
+        "nome": "Marcos  Vieira",
+        "email": "marcosvieira@precode.com",
+        "usuario": "Marcos",
+        "senha": 12345
+    }
+  ],
+  "categorias": [
+    {
+        "id": 1,
+        "nome": "Utilidades Domésticas"
+    },
+    {
+        "id": 2,
+        "nome": "Telefonia"
+    },
+    {
+        "id": 3,
+        "nome": "Pet"
+    },
+    {
+        "id": 4,
+        "nome": "Papelaria"
+    },
+    {
+        "id": 5,
+        "nome": "Móveis"
+    },
+    {
+        "id": 6,
+        "nome": "Instrumentos Musicais"
+    },
+    {
+        "id": 7,
+        "nome": "Informática"
+    },
+    {
+        "id": 8,
+        "nome": "Infantil"
+    },
+    {
+        "id": 9,
+        "nome": "Ferramentas"
+    },
+    {
+        "id": 10,
+        "nome": "Esporte e Lazer"
+    }
+  ]
+}
